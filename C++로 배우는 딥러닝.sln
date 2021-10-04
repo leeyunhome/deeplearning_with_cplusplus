@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31717.71
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++로 배우는 딥러닝", "C++로 배우는 딥러닝\C++로 배우는 딥러닝.vcxproj", "{758CC6C8-C03D-42FF-B89B-0BDC8DB8CE75}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c-style_feedForward", "c-style_feedForward\c-style_feedForward.vcxproj", "{78AE3433-00BA-4E89-8B03-649A7F6FE82C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{758CC6C8-C03D-42FF-B89B-0BDC8DB8CE75}.Release|x64.Build.0 = Release|x64
 		{758CC6C8-C03D-42FF-B89B-0BDC8DB8CE75}.Release|x86.ActiveCfg = Release|Win32
 		{758CC6C8-C03D-42FF-B89B-0BDC8DB8CE75}.Release|x86.Build.0 = Release|Win32
+		{78AE3433-00BA-4E89-8B03-649A7F6FE82C}.Debug|x64.ActiveCfg = Debug|x64
+		{78AE3433-00BA-4E89-8B03-649A7F6FE82C}.Debug|x64.Build.0 = Debug|x64
+		{78AE3433-00BA-4E89-8B03-649A7F6FE82C}.Debug|x86.ActiveCfg = Debug|Win32
+		{78AE3433-00BA-4E89-8B03-649A7F6FE82C}.Debug|x86.Build.0 = Debug|Win32
+		{78AE3433-00BA-4E89-8B03-649A7F6FE82C}.Release|x64.ActiveCfg = Release|x64
+		{78AE3433-00BA-4E89-8B03-649A7F6FE82C}.Release|x64.Build.0 = Release|x64
+		{78AE3433-00BA-4E89-8B03-649A7F6FE82C}.Release|x86.ActiveCfg = Release|Win32
+		{78AE3433-00BA-4E89-8B03-649A7F6FE82C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
